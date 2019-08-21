@@ -1,4 +1,4 @@
-class Hello {
+public class Hello {
     
     static let shared = Hello()
     
