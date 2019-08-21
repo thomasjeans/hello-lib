@@ -1,10 +1,10 @@
-class Hello {
+public class Hello {
     
-    static let shared = Hello()
+    public static let shared = Hello()
     
-    var text = "hello"
+    public var text = "hello"
     
-    func sayHello() {
+    public func sayHello() {
         print(text)
     }
 }
